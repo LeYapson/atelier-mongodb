@@ -42,8 +42,7 @@ atelier-mongodb/
 │   ├── replicaset/
 │   └── sharding/         # Bonus
 ├── integration/
-│   └── <langage>/
-│       └── tests/
+│   └── tests/
 └── README.md
 ```
 ## 🧩 Partie 1 – MongoDB Standalone
