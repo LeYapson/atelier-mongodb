@@ -39,7 +39,9 @@ atelier-mongodb/
 │   └── rapport.md
 ├── mongo/
 │   ├── standalone/
+│   │   ├── docker-compose.yml
 │   ├── replicaset/
+│   │   ├── docker-compose.yml
 │   └── sharding/         # Bonus
 ├── integration/
 │   └── tests/
