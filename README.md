@@ -33,6 +33,7 @@ Documentez les méthodes de connexion, et commentez les alternatives possibles (
 
 
 ## 📁 Structure de projet recommandée
+```bash
 atelier-mongodb/
 ├── docs/
 │   └── rapport.md
@@ -44,6 +45,7 @@ atelier-mongodb/
 │   └── <langage>/
 │       └── tests/
 └── README.md
+```
 ## 🧩 Partie 1 – MongoDB Standalone
 Installer MongoDB sur une machine ou dans un conteneur
 
