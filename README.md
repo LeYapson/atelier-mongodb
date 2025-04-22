@@ -45,6 +45,7 @@ atelier-mongodb/
 │   └── sharding/         # Bonus
 ├── integration/
 │   └── tests/
+│       ├── app.py
 └── README.md
 ```
 ## 🧩 Partie 1 – MongoDB Standalone
